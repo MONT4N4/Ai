@@ -1,0 +1,8 @@
+print("git init")
+print("ls -al")
+print("git status")
+print("git add [FILE-NAME]")
+print("git commit -m 'NAME-OF-COMMIT'")
+print("git branch -M main")
+print("git remote add origin https://github.com//Tp_AI2.git")
+print("git push -u origin main")
